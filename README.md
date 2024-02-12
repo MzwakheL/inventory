@@ -66,7 +66,6 @@ Please first press option 1 to read the shoes data then press any options
 8. Exit
 
 Enter your choice (1-8): 3
-
 +---------+-------+----------------+--------+----------+
 | Country | Code  | Product        |  Cost  | Quantity |
 +---------+-------+----------------+--------+----------+
